@@ -1,0 +1,13 @@
+body p{
+    font-family: "Comic Sans MS", "Comic Sans";
+}
+button{
+    background-color: rgb(97, 97, 170);
+    font-size: 25px;
+}
+a{
+    color: black;
+}
+.return{
+    text-align: center;
+}
